@@ -19,8 +19,7 @@ public class Rando extends Robot{
          to move right - use xMove = 1
          to move up - use yMove = -1
          to move down - use yMove = 1
-         You can ONLY move in one direction at a time, if your output doesn't match the above you will get an error
-
+         You can ONLY move in one direction at a time, if your output doesn't match the above you will get an erro
          to shoot, use shootAtLocation(x, y) where x and y are the coordinates of the target
          only shoot when canAttack() is true!
         */
